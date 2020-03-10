@@ -1,9 +1,0 @@
-<application>
-  <component name="ParameterNameHintsSettings">
-    <blacklists>
-      <blacklist language="Java">
-        <added pattern="org.javatuples.Pair.with(value0,value1)" />
-      </blacklist>
-    </blacklists>
-  </component>
-</application>
